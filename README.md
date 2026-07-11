@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-AI
-A rule based AI that checks for the best move and play is in the forms of text-based Tic-Tac-Toe
+A Tic-Tac-Toe game written in Python featuring a rule-based AI that evaluates the board, blocks the player's winning moves, and prioritizes its own winning opportunities.
